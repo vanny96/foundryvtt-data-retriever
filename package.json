@@ -1,0 +1,8 @@
+{
+  "name": "FoundryClient",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "socket.io-client": "^4.5.4"
+  }
+}
